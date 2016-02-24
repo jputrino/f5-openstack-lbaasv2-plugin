@@ -1,0 +1,5 @@
+## python / sphinx
+docs/_build/*
+.idea
+.venv
+venv/*
